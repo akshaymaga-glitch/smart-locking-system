@@ -1,6 +1,6 @@
 
 
-# AUTOMATED DELIVERY LOCKER SYSTEM
+# SMART LOCKING SYSTEM
 
 <!-- First Section -->
 ## Team Details
