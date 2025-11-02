@@ -42,7 +42,7 @@ different environments while ensuring seamless operation (Williams Brown, 2020).
 ## Functional Block diagram 
 <details>
   <summary>Detail</summary>
-<img alt="s1-t21" src="https://github.com/user-attachments/assets/28ec6284-67b6-492e-8372-b28b4f373f98"><img/>
+<img alt="s1-t3" src="https://github.com/user-attachments/assets/28ec6284-67b6-492e-8372-b28b4f373f98"><img/>
 <!-- Third Section -->
 </details>
 
