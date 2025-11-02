@@ -11,11 +11,11 @@
 
   > Section: S1
 
-  > member-1 : Nihal Raj Maturi, 231CS138, nihalraj.231cs138@nitk.edu.in
+  > member-1 : 241CS105.,Akshaymaga,akshaymaga.241cs105@nitk.edu.in  
 
-  > member-2: Balagopal Nagulagama, 231CS135, nagulagama.231cs135@nitk.edu.in
+  > member-2: 241CS108.,AnikethanaRudresh,anikethanarudresh.241cs108@nitk.edu.in
 
-  > Member-3: Navaneet Murali , 231CS136, navaneet.231cs136@nitk.edu.in
+  > Member-3: 241CS138.,NiteeshKumar,niteeshkumar.241cs138@nitk.edu.in
 </details>
 
 <!-- Second Section -->
